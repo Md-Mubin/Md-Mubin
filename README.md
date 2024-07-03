@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Md-Mubin
 - 👀 I’m interested in Web Development & Games.
-- 🌱 I’m currently learning HTML5, CSS, JavaScripts & React.
+- 🌱 Know HTML5, CSS & Bootstrap
+- 📖 Currently Learning JavaScript & React.
 - 💞️ I’m looking to collaborate on ...
 - 📫 fontdevmubina@gmail.com
 - 😄 Pronouns: He
