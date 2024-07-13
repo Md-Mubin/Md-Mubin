@@ -3,7 +3,7 @@
 - 🌱 Know HTML5, CSS & Bootstrap
 - 📖 Currently Learning JavaScript & React.
 - 💞️ I’m looking to collaborate on ...
-- 📫 fontdevmubina@gmail.com
+- 📫 fontdevmubin@gmail.com
 - 😄 Pronouns: He
 - ⚡ Fun fact: Love to do work in pressure.
 - 🎮 Love to play games on my Play-Station & PC.
