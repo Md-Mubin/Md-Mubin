@@ -9,7 +9,7 @@ Frontend Web-developer
 => ✉️  You can contact me at fontdevmubin@gmail.com <br>
 => 🤝  I'm open to collaborating on any Frontend Project <br>
 => 😄  Pronouns: He <br>
-=> ⚡  I'm secretly Batman 🦇🦇🦇 & Love to work in pressure👨🏻‍💻 <br>
+=> ⚡  I'm secretly Batman 🦇🦇🦇 Don't tell anyone 🤫 <br>
 => 🎮  Love to play games on my Play-Station & PC <br>
 => 🧩  Love Puzzle games <br>
 
