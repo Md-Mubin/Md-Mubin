@@ -8,14 +8,13 @@ Frontend Web-developer
 => 📖  Currently Learning React <br>
 => ✉️  You can contact me at fontdevmubin@gmail.com <br>
 => 🤝  I'm open to collaborating on any Frontend Project <br>
-=> 😄  Pronouns: He <br>
 => ⚡  I'm secretly Batman 🦇🦇🦇 Don't tell anyone 🤫 <br>
 => 🎮  Love to play games on my Play-Station & PC <br>
 => 🧩  Love Puzzle games <br>
 
 <a href="https://www.github.com/Md-Mubin" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/Md-Mubin?logo=github&style=for-the-badge&color=10b981&labelColor=181824" /></a>
-
+src="https://img.shields.io/github/followers/Md-Mubin?logo=github&style=for-the-badge&color=10b981&labelColor=181824" /></a> <br>
+[![](https://visitcount.itsvg.in/api?id=Md-Mubin&icon=5&color=0)](https://visitcount.itsvg.in)
 
 ### 🛠️ Languages and Tools:
 ---------------------------------
