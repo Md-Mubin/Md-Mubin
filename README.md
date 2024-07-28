@@ -14,7 +14,6 @@ Frontend Web-developer
 
 <a href="https://www.github.com/Md-Mubin" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/Md-Mubin?logo=github&style=for-the-badge&color=10b981&labelColor=181824" /></a> <br>
-[![](https://visitcount.itsvg.in/api?id=Md-Mubin&icon=5&color=0)](https://visitcount.itsvg.in)
 
 ### 🛠️ Languages and Tools:
 ---------------------------------
