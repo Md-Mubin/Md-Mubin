@@ -40,11 +40,11 @@ src="https://img.shields.io/github/followers/Md-Mubin?logo=github&style=for-the-
       <br>React
     </td>  
      <td align="center" width="100">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" alt="icon" width="40" height="60" style="max-width: 100;">
+<img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/figma/figma.svg" alt="icon" width="50" height="60" style="max-width: 100;">
       <br>Figma
     </td> 
     <td align="center" width="100">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" alt="icon" width="30" height="60" style="max-width: 100;">
+<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/vscode/vscode-original.svg" alt="icon" width="40" height="60" style="max-width: 100;">
       <br>VS Code
     </td> 
   </tr>
@@ -57,13 +57,13 @@ src="https://img.shields.io/github/followers/Md-Mubin?logo=github&style=for-the-
 
 <p align="left"> 
 <a href="https://www.facebook.com/Md Mubin" target="_blank" rel="noreferrer"> 
-<picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook-dark.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /> 
+<picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook-dark.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="40" height="40" /> 
 </picture> </a> 
 <a href="https://www.github.com/Md-Mubin" target="_blank" rel="noreferrer"> 
-<picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" />  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> 
+<picture> <img src="https://camo.githubusercontent.com/1f606cfc6681e464ec2d6753cd1f697974bf3fc6f79fb7ed15c1cc3172e74ca0/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f39362f3030303030302f6769746875622d2d76312e706e67" width="40" height="40" /> 
 </picture> </a> 
 <a href="https://www.linkedin.com/in/md-mubin" target="_blank" rel="noreferrer"> 
-<picture> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> 
+<picture> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="40" height="40" /> 
 </picture> </a>
 </p>
 
