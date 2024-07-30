@@ -14,11 +14,8 @@ Frontend Web-developer
 
 <a href="https://www.github.com/Md-Mubin" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/Md-Mubin?logo=github&style=for-the-badge&color=10b981&labelColor=181824" /></a> <br>
-<div align="center" dir="auto">
-    <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/4a9ccaadec61bd1f595032c19effd16e927e73ea88ccdccdfde1af050211637f/68747470733a2f2f70726f66696c652d636f756e7465722e676c697463682e6d652f7b4d65686d6574506f6c617432307d2f636f756e742e737667"><img src="https://camo.githubusercontent.com/4a9ccaadec61bd1f595032c19effd16e927e73ea88ccdccdfde1af050211637f/68747470733a2f2f70726f66696c652d636f756e7465722e676c697463682e6d652f7b4d65686d6574506f6c617432307d2f636f756e742e737667" style="width: 300; max-width: 100; align=left;" data-canonical-src="https://profile-counter.glitch.me/{Md-Mubin}/count.svg"></a>
-</div>
 
-### 🛠️ Languages and Tools:
+## 🛠️ Languages and Tools:
 ---------------------------------
 
 <p dir="auto"></p><markdown-accessiblity-table><table>
@@ -57,14 +54,14 @@ src="https://img.shields.io/github/followers/Md-Mubin?logo=github&style=for-the-
   </div>
 
 
-### Socials
+## Socials
 -----------
 
 <p align="left"> <a href="https://www.facebook.com/Md Mubin" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /> </picture> </a> <a href="https://www.github.com/Md-Mubin" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/md-mubin" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
 
-### Badges
+## Badges
 ---------------------------------
 
-<b>My GitHub Stats</b>
+### <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/Md-Mubin"><img src="https://github-readme-stats.vercel.app/api?username=Md-Mubin&show_icons=true&hide=&count_private=true&title_color=14b8a6&text_color=ffffff&icon_color=10b981&bg_color=181824&hide_border=true&show_icons=true" alt="Md-Mubin's GitHub stats" /></a> <a href="https://github.com/Md-Mubin" align="right"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Md-Mubin&langs_count=10&title_color=14b8a6&text_color=ffffff&icon_color=10b981&bg_color=181824&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" align="left" /></a>
