@@ -4,7 +4,7 @@ Hi 👋 Myself { Md Mubin }
 Frontend Web-developer
 ---------------------------------
 
-=> 🌱  Know HTML5, CSS , Bootstrap & JavaScript <br>
+=> 🌱  HTML5, CSS , Bootstrap & JavaScript <br>
 => 📖  Currently Learning React <br>
 => ✉️  You can contact me at fontdevmubin@gmail.com <br>
 => 🤝  I'm open to collaborating on any Frontend Project <br>
