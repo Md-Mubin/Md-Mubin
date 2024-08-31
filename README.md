@@ -33,7 +33,7 @@ src="https://img.shields.io/github/followers/Md-Mubin?logo=github&style=for-the-
       <br>JavaScript
     </td> 
         <td align="center" width="100">
-        <a href="https://camo.githubusercontent.com/c2a1c48be1091ce6a771794bf0b3bc45b58e5ce1531810e48cea88a7bae4c121/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d626f6f747374726170" rel="nofollow"><img src="https://camo.githubusercontent.com/c2a1c48be1091ce6a771794bf0b3bc45b58e5ce1531810e48cea88a7bae4c121/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d626f6f747374726170" width="40" height="60" alt="bootstrap" style="max-width: 100;"></a>
+        <a href="https://skillicons.dev/icons?i=bootstrap" rel="nofollow"><img src="https://skillicons.dev/icons?i=bootstrap" width="40" height="60" alt="bootstrap" style="max-width: 100;"></a>
       <br>Bootstrap
     </td> 
           <td align="center" width="100">
@@ -41,7 +41,7 @@ src="https://img.shields.io/github/followers/Md-Mubin?logo=github&style=for-the-
       <br>CSS
     </td>  
 <td align="center" width="100">
-        <a href="https://camo.githubusercontent.com/4c31cabd8b3aa138d55adcf0a5415e5f71f38f4f5eb0ef7312ef675077834b8d/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d68746d6c" rel="nofollow"><img src="https://camo.githubusercontent.com/4c31cabd8b3aa138d55adcf0a5415e5f71f38f4f5eb0ef7312ef675077834b8d/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d68746d6c" width="40" height="60" alt="HTML" style="max-width: 100;"></a>
+        <a href="https://skillicons.dev/icons?i=html" rel="nofollow"><img src="https://skillicons.dev/icons?i=html" width="40" height="60" alt="HTML" style="max-width: 100;"></a>
       <br>HTML
     </td> 
      <td align="center" width="100">
