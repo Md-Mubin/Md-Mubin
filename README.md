@@ -5,10 +5,11 @@
 Frontend Web-developer
 ---------------------------------
 
-=> 🌱  HTML5, CSS , Tailwind CSS, Bootstrap & JavaScript <br>
+=> 🌱  React, Tailwind Css, JavaScript, Css & HTML% <br>
 => 📖  Keen Focus in React <br>
+=> ⚙️  Add Redux, API fetching and full responsive.
 => ✉️  You can contact me at fontdevmubin@gmail.com <br>
-=> 🤝  I'm open to collaborating on any Frontend Project <br>
+=> 🤝  I'm open to collaborating on any React Frontend Project <br>
 => ⚡  I'm secretly Batman 🦇🦇🦇 Don't tell anyone 🤫 <br>
 => 🎮  Love to play games on my Play-Station & PC <br>
 => 🧩  Love Puzzle games <br>
