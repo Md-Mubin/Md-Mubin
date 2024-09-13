@@ -39,7 +39,7 @@ src="https://img.shields.io/github/followers/Md-Mubin?logo=github&style=for-the-
       <br>Bootstrap
     </td> 
           <td align="center" width="100">
-        <a href="https://camo.githubusercontent.com/e531a79257b93921f8b58efa952eb049ceb2672bcf57bd666165476261c145a8/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d637373" rel="nofollow"><img src="https://camo.githubusercontent.com/e531a79257b93921f8b58efa952eb049ceb2672bcf57bd666165476261c145a8/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d637373" width="40" height="60" alt="css" style="max-width: 100;"></a>
+        <a href="https://skillicons.dev/icons?i=bootstrap" rel="nofollow"><img src="https://skillicons.dev/icons?i=css" width="40" height="60" alt="css" style="max-width: 100;"></a>
       <br>CSS
     </td>  
 <td align="center" width="100">
