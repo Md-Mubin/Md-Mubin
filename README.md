@@ -23,7 +23,7 @@ src="https://img.shields.io/github/followers/Md-Mubin?logo=github&style=for-the-
   <tbody>
     <tr>
       <td align="center" width="100">
-        <a href="https://skillicons.dev/icons?i=react" rel="nofollow"><img src="https://skillicons.dev/icons?i=react" alt="icon" width="40" height="60" style="max-width: 100;"></a>
+        <a href="https://skillicons.dev/icons?i=react" rel="nofollow"><img src="https://camo.githubusercontent.com/0fcf9befefc83e207ed36bdeb3ac4f6c99132571ddb0f44e7a6ac872b0723352/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f72656163742d69636f6e2e737667" alt="icon" width="50" height="60" style="max-width: 100;"></a>
       <br>React
     </td> 
       <td align="center" width="100">
