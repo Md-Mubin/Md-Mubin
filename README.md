@@ -5,8 +5,8 @@
 Frontend Web-developer
 ---------------------------------
 
-=> 🌱  React, Tailwind Css, JavaScript, Css & HTML5 <br>
-=> 📖  Keen Focus in React <br>
+=> 🌱  React.js, Tailwind Css, JavaScript, Css & HTML5 <br>
+=> 📖  Keen Focus in React.js <br>
 => ⚙️  Redux, API fetching and full responsive.<br>
 => ✉️  You can contact me at fontdevmubin@gmail.com <br>
 => 🤝  I'm open to collaborating on any React Frontend Project <br>
