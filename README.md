@@ -3,7 +3,7 @@
 ======================================
 
 Frontend Web-developer
-------------------------------------
+-------------------------------------
 
 => 🌱  React.js, Tailwind Css, JavaScript, Css & HTML5 <br>
 => 📖  Keen Focus in React.js <br>
