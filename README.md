@@ -12,7 +12,7 @@ Frontend Web-developer
 => 🤝  I'm open to collaborate on any React Frontend Project <br>
 => ⚡  I'm secretly Batman 🦇🦇🦇 Don't tell anyone 🤫 <br>
 => 🎮  Love to play games on my Play-Station & PC <br>
-=> 🧩  Love Puzzle games <br>
+=> 🧩  Love Puzzle games  <br>
 
 <a href="https://www.github.com/Md-Mubin" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/Md-Mubin?logo=github&style=for-the-badge&color=10b981&labelColor=181824" /></a> <br>
