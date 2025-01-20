@@ -62,7 +62,6 @@ src="https://img.shields.io/github/followers/Md-Mubin?logo=github&style=for-the-
 </article>
  </div>
 
-
 ## Socials
 
 <p align="left"> 
