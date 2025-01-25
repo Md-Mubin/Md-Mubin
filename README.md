@@ -1,6 +1,5 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&size=24&duration=4000&pause=1000&color=1CCFBE&center=true&amp&width=800&amp&lines=Hi!+Welcome+to+%7B%3C+Md+Mubin's+%2F+%3E%7D+Git-hub+Profile;Front-End+Developer+%7C%7C+React+Developer;Always+jump+to+Learning+%26+Improving+" alt="Typing SVG" /></a>
 
-======================================
 
 # Frontend Web-developer 
 -------------------------------------
