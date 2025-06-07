@@ -1,19 +1,19 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&size=24&duration=4000&pause=1000&color=1CCFBE&center=true&amp&width=800&amp&lines=Hi!+Welcome+to+%7B%3C+Md+Mubin's+%2F+%3E%7D+Git-hub+Profile;Front-End+Developer+%7C%7C+React+Developer;Always+jump+to+Learning+%26+Improving+" alt="Typing SVG" /></a> 
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Merienda&weight=500&size=30&letterSpacing=2px&duration=2500&pause=1000&color=00FF96FF&center=true&vCenter=true&width=1000&lines=Hi!+Welcome+to+%7B%3C+Md+Mubin's+%2F+%3E%7D+Git-hub+Profile;Full+Stack+%7C+Mern+Stack+Developer;Always+goes+for+learning+and+improving" alt="Typing SVG" /></a>
  
 # Full Stack Developer || MERN Stack 
 ----------------------------------- 
- 
-=> 🌱  React.js, Tailwind Css, Redux, Firebase, JavaScript, Css & HTML5 <br> 
-=> 📖  Keen Focus on React.js <br>
-=> ⚙️  Redux, API fetching and full responsive.<br>
-=> ✉️  You can contact me at mubin.webdev@gmail.com <br>
-=> 🤝  I'm open to collaborate on any React Frontend Project <br>
-=> ⚡  I'm secretly Batman 🦇🦇🦇 Don't tell anyone 🤫 <br>
-=> 🎮  Love to play games on my Play-Station & PC <br>
-=> 🧩  Love Puzzle games  <br>
+=> ⚛️ React.js, Next.js, Node.js, Express.js and MongoDB — Fully Stacked & Battle-Tested <br/>
+=> 🎯 Built full-stack apps from scratch with REST APIs, Auth, CRUD & optimized performance <br/>
+=> 🎨 Frontend wizardry with Tailwind CSS, Redux Toolkit and pixel-perfect UI <br/>
+=> 🛠 Backend logic? Secured routes, middleware, JWT, OTP and Mongo magic. <br/>
+=> 🔁 Realtime apps? have worked with Socket.io <br/>
+=> 🌐 Fully responsive, fast-loading and SEO-friendly apps with Next.js SSR & ISR <br/>
+=> ✉️ Hit me up: mubin.webdev@gmail.com <br/>
+=> 🤝 Let’s collab — MERN Projects, Startup MVPs, E-commerce or anything React-y <br/>
+=> 🦇 I’m secretly Batman who debug in the dark. <br/>
+=> 🎮 Gaming fuels my dev mode — PS & PC squad <br/>
+=> 🧩 Logic puzzles games? Brain gains 💪
 
-***********************************************
-### Learning Node.js 📗 , Express.js 🧪 & MongoDB 🍃
 ***********************************************
 
 <a href="https://www.github.com/Md-Mubin" target="_blank" rel="noreferrer"><img
@@ -21,68 +21,108 @@ src="https://img.shields.io/github/followers/Md-Mubin?logo=github&style=for-the-
 
 ## 🛠️ Languages and Tools:
 
+## 💻 Frontend
+<table> 
+<tbody> 
+<tr> 
+<td align="center" width="100" height="100"> 
+<img src="https://skillicons.dev/icons?i=react" /><br>
+React 
+</td> 
+<td align="center" width="100" height="100"> 
+<img src="https://skillicons.dev/icons?i=nextjs"  /><br>
+Next.js 
+</td> 
+<td align="center" width="100" height="100"> 
+<img src="https://skillicons.dev/icons?i=javascript" /><br>
+JavaScript 
+</td> 
+<td align="center" width="100" height="100"> 
+<img src="https://skillicons.dev/icons?i=tailwind" /><br>
+Tailwind 
+</td> 
+<td align="center" width="100" height="100"> 
+<img src="https://skillicons.dev/icons?i=bootstrap" /><br>
+Bootstrap 
+</td> 
+<td align="center" width="100" height="100">
+ <img src="https://skillicons.dev/icons?i=css" /><br>
+CSS 
+</td> 
+<td align="center" width="100" height="100"> 
+<img src="https://skillicons.dev/icons?i=html" /><br>
+HTML 
+</td> 
+<td align="center" width="100" height="100"> 
+<img src="https://skillicons.dev/icons?i=redux" /><br>
+Redux 
+</td> 
+</tr> 
+</tbody> 
+</table>
+
+## 🛠️ Backend
 <table>
-  <tbody>
-    <tr>
-      <td align="center" width="100">
-        <a href="https://skillicons.dev/icons?i=react" rel="nofollow">
-          <img src="https://camo.githubusercontent.com/0fcf9befefc83e207ed36bdeb3ac4f6c99132571ddb0f44e7a6ac872b0723352/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f72656163742d69636f6e2e737667" alt="icon" width="50" height="60" style="max-width: 100;">
-        </a>
-      <br>React
-    </td> 
-      <td align="center" width="100">
-        <a href="https://skillicons.dev/icons?i=tailwind" rel="nofollow">
-          <img src="https://skillicons.dev/icons?i=tailwind" alt="icon" width="40" height="60" style="max-width: 100;">
-        </a>
-      <br>Tailwind
-    </td> 
-       <td align="center" width="100">
-        <a href="https://skillicons.dev/icons?i=javascript" rel="nofollow">
-          <img src="https://skillicons.dev/icons?i=javascript" alt="icon" width="40" height="60" style="max-width: 100;">
-        </a>
-      <br>JavaScript
-    </td> 
-        <td align="center" width="100">
-        <a href="https://skillicons.dev/icons?i=bootstrap" rel="nofollow">
-          <img src="https://skillicons.dev/icons?i=bootstrap" width="40" height="60" alt="bootstrap" style="max-width: 100;">
-        </a>
-      <br>Bootstrap
-    </td> 
-          <td align="center" width="100">
-        <a href="https://skillicons.dev/icons?i=bootstrap" rel="nofollow">
-          <img src="https://skillicons.dev/icons?i=css" width="40" height="60" alt="css" style="max-width: 100;">
-        </a>
-      <br>CSS
-    </td>  
-<td align="center" width="100">
-        <a href="https://skillicons.dev/icons?i=html" rel="nofollow">
-          <img src="https://skillicons.dev/icons?i=html" width="40" height="60" alt="HTML" style="max-width: 100;">
-        </a>
-      <br>HTML
-    </td> 
-     <td align="center" width="100">
-<img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/figma/figma.svg" alt="icon" width="50" height="60" style="max-width: 100;">
-      <br>Figma
-    </td> 
-    <td align="center" width="100">
-<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/vscode/vscode-original.svg" alt="icon" width="40" height="60" style="max-width: 100;">
-      <br>VS Code
-    </td> 
-  </tr>
-</tbody></table>
-</article>
- </div>
+<tbody>
+<tr> 
+<td align="center" width="100" height="100"> 
+<img src="https://skillicons.dev/icons?i=nodejs"/><br>
+Node.js 
+</td> 
+<td align="center" width="100" height="100"> 
+<img src="https://skillicons.dev/icons?i=express"/><br>
+Express.js 
+</td> 
+<td align="center" width="100" height="100"> 
+<img src="https://skillicons.dev/icons?i=mongodb"/><br
+>MongoDB 
+</td> 
+<td align="center" width="100" height="100"> 
+<img src="https://skillicons.dev/icons?i=firebase"/><br>
+Firebase 
+</td> 
+</tr> 
+</tbody> 
+</table>
+
+## ⚙️ Tools & Platforms
+<table>
+<tbody> 
+<tr>
+<td align="center" width="100" height="100"> 
+<img src="https://skillicons.dev/icons?i=figma"/><br>
+Figma 
+</td> 
+<td align="center" width="100" height="100"> 
+<img src="https://skillicons.dev/icons?i=vscode"/><br>
+VS Code 
+</td> 
+<td align="center" width="100" height="100"> 
+<img src="https://skillicons.dev/icons?i=github"/><br>
+GitHub 
+</td> 
+<td align="center" width="100" height="100"> 
+<img src="https://skillicons.dev/icons?i=vercel"/><br>
+Vercel 
+</td> 
+<td align="center" width="100" height="100"> 
+<img src="https://skillicons.dev/icons?i=netlify" /><br>
+Netlify 
+</td> 
+</tr>
+</tbody> 
+</table>
 
 ## Socials
 
 <p align="left"> 
-<a href="https://www.facebook.com/Md Mubin" target="_blank" rel="noreferrer"> 
+<a href="https://www.facebook.com/webdev.mubin" target="_blank" rel="noreferrer"> 
 <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook-dark.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="40" height="40" /> 
 </picture> </a> 
 <a href="https://www.github.com/Md-Mubin" target="_blank" rel="noreferrer"> 
 <picture> <img src="https://skillicons.dev/icons?i=github" width="40" height="40" /> 
 </picture> </a> 
-<a href="https://www.linkedin.com/in/md-mubin" target="_blank" rel="noreferrer"> 
+<a href="https://www.linkedin.com/in/webdev-mubin" target="_blank" rel="noreferrer"> 
 <picture> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="40" height="40" /> 
 </picture> </a>
 </p>
