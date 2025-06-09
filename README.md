@@ -1,4 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Merienda&weight=500&size=30&letterSpacing=2px&duration=2500&pause=1000&color=00FF96FF&center=true&vCenter=true&width=1000&lines=Hi!+Welcome+to+%7B%3C+Md+Mubin's+%2F+%3E%7D+Git-hub+Profile;Full+Stack+%7C+Mern+Stack+Developer;Always+goes+for+learning+and+improving" alt="Typing SVG" /></a>
+<img src="https://readme-typing-svg.demolab.com?font=Merienda&weight=500&size=30&letterSpacing=2px&duration=2500&pause=1000&color=00FF96FF&center=true&vCenter=true&width=1000&lines=Hi!+Welcome+to+%7B%3C+Md+Mubin's+%2F+%3E%7D+Git-hub+Profile;Full+Stack+%7C+Mern+Stack+Developer;Always+goes+for+learning+and+improving" alt="Typing SVG" /></a>
  
 # Full Stack Developer || MERN Stack 
 ----------------------------------- 
@@ -93,6 +93,10 @@ Regex
 <img src="https://skillicons.dev/icons?i=firebase"/><br>
 Firebase 
 </td> 
+<td align="center" width="100" height="100"> 
+<img width="50" height="50" src="https://github.com/user-attachments/assets/d03cc2a0-8119-4adb-97f0-22c8073c0357"/><br>
+Cloudinary
+</td>
 </tr> 
 </tbody> 
 </table>
