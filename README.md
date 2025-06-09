@@ -74,6 +74,18 @@ Node.js
 Express.js 
 </td> 
 <td align="center" width="100" height="100"> 
+<img src="https://skillicons.dev/icons?i=regex" /><br>
+Regex 
+</td> 
+</tr> 
+</tbody> 
+</table>
+
+## 🗃️ Data Base
+<table>
+<tbody>
+<tr> 
+<td align="center" width="100" height="100"> 
 <img src="https://skillicons.dev/icons?i=mongodb"/><br
 >MongoDB 
 </td> 
@@ -100,6 +112,10 @@ VS Code
 <td align="center" width="100" height="100"> 
 <img src="https://skillicons.dev/icons?i=github"/><br>
 GitHub 
+</td> 
+<td align="center" width="100" height="100"> 
+<img src="https://skillicons.dev/icons?i=npm"/><br>
+NPM 
 </td> 
 <td align="center" width="100" height="100"> 
 <img src="https://skillicons.dev/icons?i=vercel"/><br>
