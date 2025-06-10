@@ -1,4 +1,4 @@
-<img src="https://readme-typing-svg.demolab.com?font=Merienda&weight=500&size=30&letterSpacing=2px&duration=2500&pause=1000&color=00FF96FF&center=true&vCenter=true&width=1000&lines=Hi!+Welcome+to+%7B%3C+Md+Mubin's+%2F+%3E%7D+Git-hub+Profile;Full+Stack+%7C+Mern+Stack+Developer;Always+goes+for+learning+and+improving" alt="Typing SVG" /></a>
+<img src="https://readme-typing-svg.demolab.com?font=Merienda&weight=500&size=30&letterSpacing=2px&duration=2500&pause=1000&color=00FF96FF&center=true&vCenter=true&width=1000&lines=Hi!+Welcome+to+%7B%3C+Md+Mubin's+%2F+%3E%7D+Git-hub+Profile;Full+Stack+%7C+Mern+Stack+Developer;Always+goes+for+learning+and+improving" alt="full stack mern web developer frontend backend react.js next.js node.js express.js mongodb" /></a>
  
 # Full Stack Developer || MERN Stack || Error Solver
 ----------------------------------- 
@@ -17,8 +17,8 @@
 
 ***********************************************
 
-<a href="https://www.github.com/Md-Mubin" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/Md-Mubin?logo=github&style=for-the-badge&color=10b981&labelColor=181824" /></a> <br>
+<a href="https://www.github.com/Md-Mubin" target="_blank" rel="noreferrer">
+<img src="https://img.shields.io/github/followers/Md-Mubin?logo=github&style=for-the-badge&color=10b981&labelColor=181824" alt="full stack mern web developer frontend backend react.js next.js node.js express.js mongodb" /></a> <br>
 
 ## 🛠️ Languages and Tools:
 
@@ -27,35 +27,35 @@ src="https://img.shields.io/github/followers/Md-Mubin?logo=github&style=for-the-
 <tbody> 
 <tr> 
 <td align="center" width="100" height="100"> 
-<img src="https://skillicons.dev/icons?i=react" /><br>
+<img src="https://skillicons.dev/icons?i=react" alt="full stack mern web developer frontend backend react.js next.js node.js express.js mongodb" /><br>
 React 
 </td> 
 <td align="center" width="100" height="100"> 
-<img src="https://skillicons.dev/icons?i=nextjs"  /><br>
+<img src="https://skillicons.dev/icons?i=nextjs" alt="full stack mern web developer frontend backend react.js next.js node.js express.js mongodb" /><br>
 Next.js 
 </td> 
 <td align="center" width="100" height="100"> 
-<img src="https://skillicons.dev/icons?i=javascript" /><br>
+<img src="https://skillicons.dev/icons?i=javascript" alt="full stack mern web developer frontend backend react.js next.js node.js express.js mongodb" /><br>
 JavaScript 
 </td> 
 <td align="center" width="100" height="100"> 
-<img src="https://skillicons.dev/icons?i=tailwind" /><br>
+<img src="https://skillicons.dev/icons?i=tailwind" alt="full stack mern web developer frontend backend react.js next.js node.js express.js mongodb" /><br>
 Tailwind 
 </td> 
 <td align="center" width="100" height="100"> 
-<img src="https://skillicons.dev/icons?i=bootstrap" /><br>
+<img src="https://skillicons.dev/icons?i=bootstrap" alt="full stack mern web developer frontend backend react.js next.js node.js express.js mongodb" /><br>
 Bootstrap 
 </td> 
 <td align="center" width="100" height="100">
- <img src="https://skillicons.dev/icons?i=css" /><br>
+ <img src="https://skillicons.dev/icons?i=css" alt="full stack mern web developer frontend backend react.js next.js node.js express.js mongodb" /><br>
 CSS 
 </td> 
 <td align="center" width="100" height="100"> 
-<img src="https://skillicons.dev/icons?i=html" /><br>
+<img src="https://skillicons.dev/icons?i=html" alt="full stack mern web developer frontend backend react.js next.js node.js express.js mongodb" /><br>
 HTML 
 </td> 
 <td align="center" width="100" height="100"> 
-<img src="https://skillicons.dev/icons?i=redux" /><br>
+<img src="https://skillicons.dev/icons?i=redux" alt="full stack mern web developer frontend backend react.js next.js node.js express.js mongodb" /><br>
 Redux 
 </td> 
 </tr> 
@@ -67,15 +67,15 @@ Redux
 <tbody>
 <tr> 
 <td align="center" width="100" height="100"> 
-<img src="https://skillicons.dev/icons?i=nodejs"/><br>
+<img src="https://skillicons.dev/icons?i=nodejs" alt="full stack mern web developer frontend backend react.js next.js node.js express.js mongodb"/><br>
 Node.js 
 </td> 
 <td align="center" width="100" height="100"> 
-<img src="https://skillicons.dev/icons?i=express"/><br>
+<img src="https://skillicons.dev/icons?i=express" alt="full stack mern web developer frontend backend react.js next.js node.js express.js mongodb"/><br>
 Express.js 
 </td> 
 <td align="center" width="100" height="100"> 
-<img src="https://skillicons.dev/icons?i=regex" /><br>
+<img src="https://skillicons.dev/icons?i=regex" alt="full stack mern web developer frontend backend react.js next.js node.js express.js mongodb"/><br>
 Regex 
 </td> 
 </tr> 
@@ -156,8 +156,8 @@ Netlify
 
 # Portfolio
 
- Click to see the live demo:
-<a href="https://mubin-webdev.netlify.app/" target="_blank">
+Click to see the live demo:
+<a href="https://mubin-webdev.netlify.app/" target="_blank" alt="full stack mern web developer frontend backend react.js next.js node.js express.js mongodb" >
 ![image](https://github.com/user-attachments/assets/929a7aa0-51b2-4fb5-8647-f9e3055b02ec)
 </a>
 --------------------------
