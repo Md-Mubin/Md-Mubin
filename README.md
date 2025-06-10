@@ -12,7 +12,8 @@
 => 🤝 Let’s collab — MERN Projects, Startup MVPs, E-commerce or anything React-y <br/>
 => 🦇 I’m secretly Batman who debug in the dark. <br/>
 => 🎮 Gaming fuels my dev mode — PS & PC squad <br/>
-=> 🧩 Logic puzzles games? Brain gains 💪
+=> 🧩 Logic puzzles games? Brain gains 💪 <br/>
+=> 📝 Got praised by a German startup company for a full-stack web page — letter of  <a href="https://drive.google.com/file/d/12ODar6fweMzZCiE1sGuFtlgZq6kS87qJ/view?usp=sharing" target="_blank">appreciation</a> received 💌
 
 ***********************************************
 
@@ -158,4 +159,12 @@ Netlify
  Click to see the live demo:
 <a href="https://mubin-webdev.netlify.app/" target="_blank">
 ![image](https://github.com/user-attachments/assets/929a7aa0-51b2-4fb5-8647-f9e3055b02ec)
-<a>
+</a>
+--------------------------
+
+### Full-Stack Web Page(Germany-based company)
+
+- Built with: **Next.js, Tailwind CSS, Node.js, Express.js, MongoDB**
+- Features: **English-German translation**, valid email, subscribe, senidng inquiry, responsive UI, server-side rendering (SSR)
+- 🔐 Project under NDA — limited public visuals. 
+- 💌 Received a signed appreciation letter. <a href="https://drive.google.com/file/d/12ODar6fweMzZCiE1sGuFtlgZq6kS87qJ/view?usp=sharing" target="_blank">Click here to see</a>
