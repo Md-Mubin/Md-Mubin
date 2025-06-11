@@ -84,7 +84,7 @@ Bcrypt
 </td> 
 <td align="center" width="100" height="100"> 
 <img src="https://github.com/user-attachments/assets/fc32a916-0076-491a-82d7-3d62e6a90094" width="50" height="50" alt="full stack mern web developer frontend backend react.js next.js node.js express.js mongodb"/><br>
-JSWT
+JWT
 </td> 
 </tr> 
 </tbody> 
