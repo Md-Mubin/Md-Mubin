@@ -141,19 +141,19 @@ Netlify
 <tr> 
 <td align="center" width="100" height="100"> 
 <a href="https://www.facebook.com/webdev.mubin" target="_blank" rel="noreferrer"> 
-<img media="(prefers-color-scheme: dark)" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="50" height="50" alt="full stack mern web developer frontend backend react.js next.js node.js express.js mongodb"/> 
+<img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/light/facebook.svg" alt="full stack mern web developer frontend backend react.js next.js node.js express.js mongodb"/> 
 </a> <br>
 Facebook 
 </td> 
 <td align="center" width="100" height="100"> 
 <a href="https://www.github.com/Md-Mubin" target="_blank" rel="noreferrer"> 
-<img src="https://skillicons.dev/icons?i=github" alt="full stack mern web developer frontend backend react.js next.js node.js express.js mongodb"/>
+<img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/light/github.svg" alt="full stack mern web developer frontend backend react.js next.js node.js express.js mongodb"/>
 </a><br>
 Github
 </td> 
 <td align="center" width="100" height="100"> 
 <a href="https://www.linkedin.com/in/webdev-mubin" target="_blank" rel="noreferrer"> 
-<img src="https://skillicons.dev/icons?i=linkedin" alt="full stack mern web developer frontend backend react.js next.js node.js express.js mongodb"/>
+<img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/light/linkedin.svg" alt="full stack mern web developer frontend backend react.js next.js node.js express.js mongodb"/>
 </a><br>
 Linked-In
 </td> 
