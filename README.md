@@ -78,6 +78,14 @@ Express.js
 <img src="https://skillicons.dev/icons?i=regex" alt="full stack mern web developer frontend backend react.js next.js node.js express.js mongodb"/><br>
 Regex 
 </td> 
+<td align="center" width="100" height="100"> 
+<img src="https://github.com/user-attachments/assets/1fd1edc2-a45f-49ec-b3e7-687071d83d14" width="50" height="50" alt="full stack mern web developer frontend backend react.js next.js node.js express.js mongodb"/><br>
+Bcrypt
+</td> 
+<td align="center" width="100" height="100"> 
+<img src="https://github.com/user-attachments/assets/fc32a916-0076-491a-82d7-3d62e6a90094" width="50" height="50" alt="full stack mern web developer frontend backend react.js next.js node.js express.js mongodb"/><br>
+JSWT
+</td> 
 </tr> 
 </tbody> 
 </table>
