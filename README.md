@@ -95,15 +95,15 @@ JSWT
 <tbody>
 <tr> 
 <td align="center" width="100" height="100"> 
-<img src="https://skillicons.dev/icons?i=mongodb"/><br
->MongoDB 
+<img src="https://skillicons.dev/icons?i=mongodb" alt="full stack mern web developer frontend backend react.js next.js node.js express.js mongodb"/><br>
+MongoDB 
 </td> 
 <td align="center" width="100" height="100"> 
-<img src="https://skillicons.dev/icons?i=firebase"/><br>
+<img src="https://skillicons.dev/icons?i=firebase" alt="full stack mern web developer frontend backend react.js next.js node.js express.js mongodb"/><br>
 Firebase 
 </td> 
 <td align="center" width="100" height="100"> 
-<img width="50" height="50" src="https://github.com/user-attachments/assets/d03cc2a0-8119-4adb-97f0-22c8073c0357"/><br>
+<img width="50" height="50" src="https://github.com/user-attachments/assets/d03cc2a0-8119-4adb-97f0-22c8073c0357" alt="full stack mern web developer frontend backend react.js next.js node.js express.js mongodb"/><br>
 Cloudinary
 </td>
 </tr> 
@@ -115,27 +115,27 @@ Cloudinary
 <tbody> 
 <tr>
 <td align="center" width="100" height="100"> 
-<img src="https://skillicons.dev/icons?i=figma"/><br>
+<img src="https://skillicons.dev/icons?i=figma" alt="full stack mern web developer frontend backend react.js next.js node.js express.js mongodb"/><br>
 Figma 
 </td> 
 <td align="center" width="100" height="100"> 
-<img src="https://skillicons.dev/icons?i=vscode"/><br>
+<img src="https://skillicons.dev/icons?i=vscode" alt="full stack mern web developer frontend backend react.js next.js node.js express.js mongodb"/><br>
 VS Code 
 </td> 
 <td align="center" width="100" height="100"> 
-<img src="https://skillicons.dev/icons?i=github"/><br>
+<img src="https://skillicons.dev/icons?i=github" alt="full stack mern web developer frontend backend react.js next.js node.js express.js mongodb"/><br>
 GitHub 
 </td> 
 <td align="center" width="100" height="100"> 
-<img src="https://skillicons.dev/icons?i=npm"/><br>
+<img src="https://skillicons.dev/icons?i=npm" alt="full stack mern web developer frontend backend react.js next.js node.js express.js mongodb"/><br>
 NPM 
 </td> 
 <td align="center" width="100" height="100"> 
-<img src="https://skillicons.dev/icons?i=vercel"/><br>
+<img src="https://skillicons.dev/icons?i=vercel" alt="full stack mern web developer frontend backend react.js next.js node.js express.js mongodb"/><br>
 Vercel 
 </td> 
 <td align="center" width="100" height="100"> 
-<img src="https://skillicons.dev/icons?i=netlify" /><br>
+<img src="https://skillicons.dev/icons?i=netlify" alt="full stack mern web developer frontend backend react.js next.js node.js express.js mongodb"/><br>
 Netlify 
 </td> 
 </tr>
@@ -184,7 +184,6 @@ Click to see the live demo:
 --------------------------
 
 ### Full-Stack Web Page(Germany-based company)
-
 - Built with: **Next.js, Tailwind CSS, Node.js, Express.js, MongoDB**
 - Features: **English-German translation**, valid email, subscribe, senidng inquiry, responsive UI, server-side rendering (SSR)
 - 🔐 Project under NDA — limited public visuals. 
