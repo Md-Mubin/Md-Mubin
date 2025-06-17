@@ -20,8 +20,8 @@
 <a href="https://www.github.com/Md-Mubin" target="_blank" rel="noreferrer">
 <img src="https://img.shields.io/github/followers/Md-Mubin?logo=github&style=for-the-badge&color=10b981&labelColor=181824" alt="full stack mern web developer frontend backend react.js next.js node.js express.js mongodb" /></a> <br>
 
-## 🛠️ Languages and Tools:
-
+<h2 align="center"> 🛠️ Languages and Tools:<h2/>
+ 
 ## 💻 Frontend
 <table> 
 <tbody> 
