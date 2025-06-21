@@ -165,6 +165,12 @@ Github
 </a><br>
 Linked-In
 </td> 
+<td align="center" width="100" height="100"> 
+<a href="https://stackoverflow.com/users/29376130/md-mubin" target="_blank" rel="noreferrer"> 
+<img width="35" height="35" src="https://skillicons.dev/icons?i=stackoverflow" alt="full stack mern web developer frontend backend react.js next.js node.js express.js mongodb"/>
+</a><br>
+Stack 
+</td> 
 </tr> 
 </tbody> 
 </table>
