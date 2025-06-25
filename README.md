@@ -13,6 +13,7 @@
 => 🦇 I’m secretly Batman who debug in the dark. <br/>
 => 🎮 Gaming fuels my dev mode — PS & PC squad <br/>
 => 🧩 Logic puzzles games? Brain gains 💪 <br/>
+=> 💻 Ready for remote job
 => 📝 Got praised by a German startup company for a full-stack web page — letter of  <a href="https://drive.google.com/file/d/12ODar6fweMzZCiE1sGuFtlgZq6kS87qJ/view?usp=sharing" target="_blank">appreciation</a> received 💌
 
 ***********************************************
