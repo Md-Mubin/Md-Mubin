@@ -15,7 +15,7 @@
 => 📝 Got praised by a German startup company for a full-stack web page — letter of  <a href="https://drive.google.com/file/d/12ODar6fweMzZCiE1sGuFtlgZq6kS87qJ/view?usp=sharing" target="_blank">appreciation</a> received 💌
 
 --------------------------
-<h2 align="center">📢 Available for Remote Work</h2>
+<h2 align="center">📢 Available for Remote Work. Hire ME!</h2>
 You can contact me from => <br/>
 📧 mubin.webdev@gmail.com <br/>
 🖇️ <a href=" https://www.linkedin.com/in/webdev-mubin" target="_blank" rel="noreferrer"> Linked-In </a> <br/>
