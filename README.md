@@ -18,7 +18,7 @@
 <h2 align="center">📢 Available for Remote Work. Hire ME!</h2>
 You can contact me from => <br/>
 📧 mubin.webdev@gmail.com <br/>
-🖇️ <a href=" https://www.linkedin.com/in/webdev-mubin" target="_blank" rel="noreferrer"> Linked-In </a> <br/>
+🖇️ <a href="https://www.linkedin.com/in/webdev-mubin" target="_blank"> Linked-In </a> <br/>
 💬 +880-199840-1588
 
 ***********************************************
