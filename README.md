@@ -8,18 +8,24 @@
 => 🛠 Backend logic? Secured routes, middleware, JWT, OTP and Mongo magic. <br/>
 => 🔁 Realtime apps? have worked with Socket.io <br/>
 => 🌐 Fully responsive, fast-loading and SEO-friendly apps with Next.js SSR & ISR <br/>
-=> ✉️ Hit me up: mubin.webdev@gmail.com <br/>
 => 🤝 Let’s collab — MERN Projects, Startup MVPs, E-commerce or anything React-y <br/>
 => 🦇 I’m secretly Batman who debug in the dark. <br/>
 => 🎮 Gaming fuels my dev mode — PS & PC squad <br/>
 => 🧩 Logic puzzles games? Brain gains 💪 <br/>
-=> 💻 Ready for remote job
 => 📝 Got praised by a German startup company for a full-stack web page — letter of  <a href="https://drive.google.com/file/d/12ODar6fweMzZCiE1sGuFtlgZq6kS87qJ/view?usp=sharing" target="_blank">appreciation</a> received 💌
+
+--------------------------
+<h2 align="center">📢 Available for Remote Work</h2>
+You can contact me from => <br/>
+📧 mubin.webdev@gmail.com <br/>
+🖇️ <a href=" https://www.linkedin.com/in/webdev-mubin" target="_blank" rel="noreferrer"> Linked-In </a> <br/>
+💬 +880-199840-1588
 
 ***********************************************
 
 <a href="https://www.github.com/Md-Mubin" target="_blank" rel="noreferrer">
-<img src="https://img.shields.io/github/followers/Md-Mubin?logo=github&style=for-the-badge&color=10b981&labelColor=181824" alt="full stack mern web developer frontend backend react.js next.js node.js express.js mongodb" /></a> <br>
+<img src="https://img.shields.io/github/followers/Md-Mubin?logo=github&style=for-the-badge&color=10b981&labelColor=181824" alt="full stack mern web developer frontend backend react.js next.js node.js express.js mongodb" />
+</a> <br>
 
 <h2 align="center"> 🛠️ Languages and Tools:<h2/>
  
