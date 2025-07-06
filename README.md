@@ -16,7 +16,7 @@
 
 --------------------------
 <h2 align="center">📢 Available for Remote Work. Hire ME!</h2>
-You can contact me from => <br/>
+Contact me here => <br/>
 📧 <a href="mailto:mubin.webdev@gmail.com">mubin.webdev@gmail.com</a> <br/>
 🖇️ <a href="https://www.linkedin.com/in/webdev-mubin" target="_blank"> Linked-In </a> <br/>
 💬 <a href= "https://wa.me/8801998401588" target="_blank"> WhatsApp (+880-199840-1588) </a>
