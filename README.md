@@ -2,7 +2,7 @@
   
 <h1 align="center"> Full Stack Developer || MERN Stack || Error & Problem Solver</h1>
 
-=> ⚛️ React.js, Next.js, Node.js, Express.js and MongoDB<br/>  
+=> ⚛️ React.js, Next.js, Node.js, Express.js and MongoDB<br/>   
 => 🎯 Built full-stack apps from scratch with REST APIs, Auth, CRUD & optimized performance <br/>
 => 🎨 Frontend wizardry with Tailwind CSS, Redux Toolkit and pixel-perfect UI <br/>
 => 🛠 Backend logic? Secured routes, middleware, JWT, OTP and Mongo magic. <br/>
