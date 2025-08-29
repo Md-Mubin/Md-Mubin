@@ -4,7 +4,7 @@
 
 => ⚛️ React.js, Next.js, TypeScript, Node.js, Express.js and MongoDB<br/>    
 => 🎯 Built full-stack apps from scratch with REST APIs, Auth, CRUD & optimized performance <br/>
-=> 🎨 Frontend wizardry with Tailwind CSS, Redux Toolkit and pixel-perfect UI <br/>
+=> 🎨 Frontend wizardry with Tailwind CSS, Redux Toolkit and pixel-perfect UI <br/> 
 => 🛠 Backend logic? Secured routes, middleware, JWT, OTP and Mongo magic. <br/>
 => 🔁 Realtime apps? have worked with Socket.io <br/>
 => 🌐 Fully responsive, fast-loading and SEO-friendly apps with Next.js SSR & ISR <br/>
