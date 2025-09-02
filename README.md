@@ -34,15 +34,19 @@ Contact me here => <br/>
 <tbody> 
 <tr> 
 <td align="center" width="100" height="100"> 
-<img src="https://skillicons.dev/icons?i=react" alt="full stack mern web developer frontend backend react.js next.js node.js express.js mongodb" /><br>
+<img src="https://skillicons.dev/icons?i=react" alt="full stack mern web developer typescript frontend backend react.js next.js node.js express.js mongodb" /><br>
 React 
 </td> 
 <td align="center" width="100" height="100"> 
-<img src="https://skillicons.dev/icons?i=nextjs" alt="full stack mern web developer frontend backend react.js next.js node.js express.js mongodb" /><br>
+<img src="https://skillicons.dev/icons?i=nextjs" alt="full stack mern web developer typescript frontend backend react.js next.js node.js express.js mongodb" /><br>
 Next.js 
 </td> 
 <td align="center" width="100" height="100"> 
-<img src="https://skillicons.dev/icons?i=javascript" alt="full stack mern web developer frontend backend react.js next.js node.js express.js mongodb" /><br>
+<img src="https://skillicons.dev/icons?i=javascript" alt="full stack mern web developer typescript frontend backend react.js next.js node.js express.js mongodb" /><br>
+JavaScript 
+</td> 
+<td align="center" width="100" height="100"> 
+<img src="https://skillicons.dev/icons?i=typescript" alt="full stack mern web developer typescript frontend backend react.js next.js node.js express.js mongodb" /><br>
 JavaScript 
 </td> 
 <td align="center" width="100" height="100"> 
@@ -50,19 +54,19 @@ JavaScript
 Tailwind 
 </td> 
 <td align="center" width="100" height="100"> 
-<img src="https://skillicons.dev/icons?i=bootstrap" alt="full stack mern web developer frontend backend react.js next.js node.js express.js mongodb" /><br>
+<img src="https://skillicons.dev/icons?i=bootstrap" alt="full stack mern web developer typescript frontend backend react.js next.js node.js express.js mongodb" /><br>
 Bootstrap 
 </td> 
 <td align="center" width="100" height="100">
- <img src="https://skillicons.dev/icons?i=css" alt="full stack mern web developer frontend backend react.js next.js node.js express.js mongodb" /><br>
+ <img src="https://skillicons.dev/icons?i=css" alt="full stack mern web developer typescript frontend backend react.js next.js node.js express.js mongodb" /><br>
 CSS 
 </td> 
 <td align="center" width="100" height="100"> 
-<img src="https://skillicons.dev/icons?i=html" alt="full stack mern web developer frontend backend react.js next.js node.js express.js mongodb" /><br>
+<img src="https://skillicons.dev/icons?i=html" alt="full stack mern web developer typescript frontend backend react.js next.js node.js express.js mongodb" /><br>
 HTML 
 </td> 
 <td align="center" width="100" height="100"> 
-<img src="https://skillicons.dev/icons?i=redux" alt="full stack mern web developer frontend backend react.js next.js node.js express.js mongodb" /><br>
+<img src="https://skillicons.dev/icons?i=redux" alt="full stack mern web developer typescript frontend backend react.js next.js node.js express.js mongodb" /><br>
 Redux 
 </td> 
 </tr> 
