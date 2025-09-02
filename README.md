@@ -47,7 +47,7 @@ JavaScript
 </td> 
 <td align="center" width="100" height="100"> 
 <img src="https://skillicons.dev/icons?i=typescript" alt="full stack mern web developer typescript frontend backend react.js next.js node.js express.js mongodb" /><br>
-JavaScript 
+TypeScript 
 </td> 
 <td align="center" width="100" height="100"> 
 <img src="https://skillicons.dev/icons?i=tailwind" alt="full stack mern web developer frontend backend react.js next.js node.js express.js mongodb" /><br>
