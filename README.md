@@ -6,7 +6,7 @@
 => 🎯 Built full-stack apps from scratch with REST APIs, Auth, CRUD & optimized performance <br/>
 => 🎨 Frontend wizardry with Tailwind CSS, Redux Toolkit and pixel-perfect UI <br/> 
 => 🛠 Backend logic? Secured routes, middleware, JWT, OTP and Mongo magic. <br/>
-=> 🔁 Realtime apps? have worked with Socket.io <br/>
+=> 🔁 Realtime apps? have worked with Socket.io <br/> 
 => 🌐 Fully responsive, fast-loading and SEO-friendly apps with Next.js SSR & ISR <br/>
 => 🤝 Let’s collab — MERN Projects, Startup MVPs, E-commerce or anything React-y <br/>
 => 🦇 I’m secretly Batman who debug in the dark. <br/>
