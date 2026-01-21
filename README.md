@@ -1,10 +1,11 @@
 <img src="https://readme-typing-svg.demolab.com?font=Merienda&weight=500&size=26&letterSpacing=2px&duration=2500&pause=1000&color=00FF96FF&center=true&vCenter=true&width=1000&lines=Hi!+Welcome+to+%7B%3C+Md+Mubin's+%2F+%3E%7D+Git-hub+Profile;Full+Stack+%7C+Mern+Stack+Developer;Always+goes+for+learning+and+improving" alt="full stack mern web developer frontend backend react.js next.js node.js express.js mongodb" /></a>
    
 <h1 align="center"> Full Stack Developer || MERN Stack || Error & Problem Solver</h1> 
-<h2 align="center"> 🐧🐧🐧 Learning Linux 🐧🐧🐧</h2>
  
 => ⚛️ React.js, Next.js, TypeScript JavaScript, Node.js, Express.js and MongoDB<br/> 
 => 📱 React Native<br/>
+=> 🐧 Linux<br/>
+=> 💭 Working on and learning VPS<br/>
 => 🎯 Built full-stack apps from scratch with REST APIs, Auth, CRUD & optimized performance <br/> 
 => 🎨 Frontend wizardry with Tailwind CSS, Redux Toolkit and pixel-perfect UI <br/> 
 => 🛠 Backend logic? Secured routes, middleware, JWT, OTP and Mongo magic. <br/>
