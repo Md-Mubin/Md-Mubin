@@ -1,7 +1,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Merienda&weight=500&size=26&letterSpacing=2px&duration=2500&pause=1000&color=00FF96FF&center=true&vCenter=true&width=1000&lines=Hi!+Welcome+to+%7B%3C+Md+Mubin's+%2F+%3E%7D+Git-hub+Profile;Full+Stack+%7C+Mern+Stack+Developer;Always+goes+for+learning+and+improving" alt="full stack mern web developer frontend backend react.js next.js node.js express.js mongodb" /></a>  
    
 <h1 align="center"> Full Stack Developer || MERN Stack || Error & Problem Solver</h1> 
- 
+  
 => ⚛️ React.js, Next.js, TypeScript JavaScript, Node.js, Express.js and MongoDB<br/> 
 => 📱 React Native<br/>
 => 🐧 Linux<br/>
