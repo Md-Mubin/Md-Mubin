@@ -4,7 +4,7 @@
   
 => ⚛️ React.js, Next.js, TypeScript JavaScript, Node.js, Express.js and MongoDB<br/> 
 => 📱 React Native<br/>
-=> 🐧 Linux<br/>
+=> 🐧 Linux (learning)<br/>
 => 💭 Working on and learning VPS<br/>
 => 🎯 Built full-stack apps from scratch with REST APIs, Auth, CRUD & optimized performance <br/> 
 => 🎨 Frontend wizardry with Tailwind CSS, Redux Toolkit and pixel-perfect UI <br/> 
