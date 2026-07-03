@@ -23,7 +23,7 @@
 Contact me here => <br/>
 📧 <a href="mailto:mubin.webdev@gmail.com">mubin.webdev@gmail.com</a> <br/>
 🖇️ <a href="https://www.linkedin.com/in/webdev-mubin" target="_blank"> Linked-In </a> <br/>
-💬 <a href= "https://wa.me/8801998401588" target="_blank"> WhatsApp (+880-199840-1588) </a>
+💬 <a href= "https://wa.me/8801998401588" target="_blank"> WhatsApp (+8801998401588) </a>
 
 ***********************************************
 
