@@ -190,9 +190,14 @@ Stack
 </tbody> 
 </table>
 
+# 📊 GitHub Stats
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=md-mubin&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="40%" />
+
 # Portfolio
 
 Click to see the live demo:
 <a href="https://mubin-webdev.netlify.app/" target="_blank" alt="full stack mern web developer frontend backend react.js next.js node.js express.js mongodb" >
 ![image](https://github.com/user-attachments/assets/929a7aa0-51b2-4fb5-8647-f9e3055b02ec)
 </a>
+
+
