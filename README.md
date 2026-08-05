@@ -16,7 +16,6 @@
 => 🎮 Gaming fuels my dev mode — PS & PC squad <br/>
 => 🧩 Logic puzzles games? Brain gains 💪 <br/>
 => 📝 Got praised by a German startup company for a full-stack web page — letter of  <a href="https://drive.google.com/file/d/12ODar6fweMzZCiE1sGuFtlgZq6kS87qJ/view?usp=sharing" target="_blank">appreciation</a> received 💌 <br/>
-=> 👨‍💻 Working on a Travel ERP project. <a href="https://www.telerism.com" target="_blank">Telerism</a>
 
 --------------------------
 <h2 align="center">📢 Available for Remote Work. Hire ME!</h2>
